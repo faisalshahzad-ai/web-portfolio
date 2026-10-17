@@ -1,0 +1,6 @@
+{
+  "name": "Zariya Fashion House — Premium Clothing & Fashion Brand",
+  "description": "Zariya Fashion House is a modern Pakistani fashion brand based in Lahore, offering luxury stitched & unstitched suits, bridal wear, and festive collections with nationwide delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
