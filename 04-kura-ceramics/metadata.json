@@ -1,0 +1,6 @@
+{
+  "name": "Kura Ceramics — Minimalist Artisanal Stoneware",
+  "description": "High-conversion direct-to-consumer artisanal ceramics brand featuring curated collections, limited-run drops, and artist signatures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
