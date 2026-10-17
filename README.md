@@ -10,6 +10,7 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 |-----|---------|--------------|-------|--------|
 | 01 | Zariya Fashion House Website | Fashion brand website with stitched and unstitched suits, bridal wear, festive collections and custom stitching | React, TypeScript, Tailwind CSS | [01-zariya-fashion-house](01-zariya-fashion-house) |
 | 02 | GreenScape Landscaping Co. Website | Landscaping and lawn care website for an Austin company with garden design, lawn maintenance, tree trimming and client booking | React, TypeScript, Tailwind CSS | [02-greenscape-landscaping-co](02-greenscape-landscaping-co) |
+| 03 | Tsuchi Ceramics Website | Online store for a handmade ceramics studio with product pages, cart, checkout and order tracking | React, TypeScript, Tailwind CSS | [03-tsuchi-ceramics](03-tsuchi-ceramics) |
 
 ## Screenshots
 
@@ -34,6 +35,17 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 <img width="1914" height="953" alt="Screenshot 2026-10-14 184629" src="https://github.com/user-attachments/assets/08b4d536-8d2b-46e5-b079-f27a267b05b9" />
 <img width="1917" height="954" alt="Screenshot 2026-10-14 184703" src="https://github.com/user-attachments/assets/94fea852-dce5-4a83-b033-0f999eb92cca" />
 <img width="1910" height="956" alt="Screenshot 2026-10-14 184735" src="https://github.com/user-attachments/assets/0317b233-9a12-487a-8179-0b419e8b4661" />
+### 03 - Tsuchi Ceramics Website
+<img width="1918" height="954" alt="Screenshot 2026-10-15 213824" src="https://github.com/user-attachments/assets/2d565ccb-ad37-446b-8895-2ae1083e83d0" />
+<img width="1919" height="958" alt="Screenshot 2026-10-15 213849" src="https://github.com/user-attachments/assets/0ba91165-c9fe-4626-bb1f-9bc96f14c4a6" />
+<img width="1919" height="951" alt="Screenshot 2026-10-15 214124" src="https://github.com/user-attachments/assets/abc7a8e8-05ca-4644-a672-324b124e7afa" />
+<img width="1920" height="959" alt="Screenshot 2026-10-15 214151" src="https://github.com/user-attachments/assets/6fad8adb-8463-45ff-8b02-23449ad5ba5c" />
+<img width="1915" height="950" alt="Screenshot 2026-10-15 214211" src="https://github.com/user-attachments/assets/464533b6-d3fa-4351-bf8a-5ca8c6e17a1f" />
+<img width="1917" height="953" alt="Screenshot 2026-10-15 214233" src="https://github.com/user-attachments/assets/8815a1a4-1022-46ba-883d-ae7d501f1547" />
+<img width="1920" height="953" alt="Screenshot 2026-10-15 214250" src="https://github.com/user-attachments/assets/0c011109-0870-420f-a84c-7fc11ac60c63" />
+<img width="1920" height="951" alt="Screenshot 2026-10-15 214305" src="https://github.com/user-attachments/assets/f04ddb82-055a-4c94-a4f1-e1dba73d9712" />
+<img width="1917" height="951" alt="Screenshot 2026-10-15 214331" src="https://github.com/user-attachments/assets/5d42c7fd-5193-466c-ac3d-949b0214dd14" />
 
+![Tsuchi Ceramics website](03-tsuchi-ceramics/screenshot.png)
 ![GreenScape Landscaping Co. website](02-greenscape-landscaping-co/screenshot.png)
 ![Zariya Fashion House website](01-zariya-fashion-house/screenshot.png)
