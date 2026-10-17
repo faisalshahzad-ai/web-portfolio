@@ -1,0 +1,6 @@
+{
+  "name": "GreenScape Landscaping Co.",
+  "description": "Austin's premier landscaping and lawn care company offering professional garden design, lawn maintenance, tree trimming, outdoor lighting, and seasonal yard cleanup with integrated client booking and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
