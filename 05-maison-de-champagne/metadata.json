@@ -1,0 +1,6 @@
+{
+  "name": "Maison de Champagne | Grand Cru Millésimé Épernay",
+  "description": "Prestige Champagne Épernay France. Grand Cru vintage pedigree, royal cellar heritage, and artisanal Blanc de Blancs millésimé showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
