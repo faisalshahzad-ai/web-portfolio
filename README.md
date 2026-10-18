@@ -12,6 +12,7 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 | 02 | GreenScape Landscaping Co. Website | Landscaping and lawn care website for an Austin company with garden design, lawn maintenance, tree trimming and client booking | React, TypeScript, Tailwind CSS | [02-greenscape-landscaping-co](02-greenscape-landscaping-co) |
 | 03 | Tsuchi Ceramics Website | Online store for a handmade ceramics studio with product pages, cart, checkout and order tracking | React, TypeScript, Tailwind CSS | [03-tsuchi-ceramics](03-tsuchi-ceramics) |
 | 04 | Kura Ceramics Website | Online store for a minimalist stoneware brand with product pages, 360-degree viewer, cart, checkout and order tracking | React, TypeScript, Tailwind CSS | [04-kura-ceramics](04-kura-ceramics) |
+| 05 | Maison de Champagne Website | One-page website for a Champagne house with vintage collection, terroir and cellar story, tasting notes and allocation request | React, TypeScript, Tailwind CSS | [05-maison-de-champagne](05-maison-de-champagne) |
 
 ## Screenshots
 
@@ -53,7 +54,20 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 <img width="1915" height="953" alt="Screenshot 2026-10-17 072857" src="https://github.com/user-attachments/assets/41178568-271a-41cd-82af-19830bf5d61f" />
 <img width="1920" height="950" alt="Screenshot 2026-10-17 072913" src="https://github.com/user-attachments/assets/e677dda1-57be-4b9f-af12-b7565eed9196" />
 <img width="1913" height="946" alt="Screenshot 2026-10-17 072930" src="https://github.com/user-attachments/assets/c2cbd7dc-8f2e-4ad2-a7a3-067c3dfce78d" />
+### 05 - Maison de Champagne Website
+<img width="1919" height="957" alt="Screenshot 2026-10-17 213329" src="https://github.com/user-attachments/assets/507a2433-6176-4119-b40a-f311dc44c17b" />
+<img width="1919" height="957" alt="Screenshot 2026-10-17 213354" src="https://github.com/user-attachments/assets/b172b1fa-9181-46e0-a391-3e505ac2f8fa" />
+<img width="1918" height="952" alt="Screenshot 2026-10-17 213412" src="https://github.com/user-attachments/assets/0446fb01-c0d3-4d66-b1c8-4c92ae9e1f70" />
+<img width="1912" height="951" alt="Screenshot 2026-10-17 213430" src="https://github.com/user-attachments/assets/f6f6d115-ce12-462c-b9f8-d1e266c7cf24" />
+<img width="1919" height="953" alt="Screenshot 2026-10-17 213450" src="https://github.com/user-attachments/assets/29f853a0-fa9c-4a63-84e7-2b082254af53" />
+<img width="1914" height="952" alt="Screenshot 2026-10-17 213509" src="https://github.com/user-attachments/assets/dffe6ff6-c8c2-4dce-82de-a93da7465dbb" />
+<img width="1917" height="950" alt="Screenshot 2026-10-17 213524" src="https://github.com/user-attachments/assets/d4eaa60e-58a0-4f29-9ce2-57c24b49432b" />
+<img width="1917" height="942" alt="Screenshot 2026-10-17 213540" src="https://github.com/user-attachments/assets/22bf3278-1439-4f10-ac95-df2f607f130b" />
+<img width="1914" height="953" alt="Screenshot 2026-10-17 213555" src="https://github.com/user-attachments/assets/340a19fd-e5d9-4299-b98c-d7315dbc256d" />
+<img width="1917" height="958" alt="Screenshot 2026-10-17 213612" src="https://github.com/user-attachments/assets/04914828-43cf-4235-a217-2f6c4ce7467d" />
+<img width="1916" height="960" alt="Screenshot 2026-10-17 213626" src="https://github.com/user-attachments/assets/a9f0c88f-f10f-49e3-b7e2-a5c89ebc33d1" />
 
+![Maison de Champagne website](05-maison-de-champagne/screenshot.png)
 ![Kura Ceramics website](04-kura-ceramics/screenshot.png)
 ![Tsuchi Ceramics website](03-tsuchi-ceramics/screenshot.png)
 ![GreenScape Landscaping Co. website](02-greenscape-landscaping-co/screenshot.png)
