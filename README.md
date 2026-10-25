@@ -13,6 +13,7 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 | 03 | Tsuchi Ceramics Website | Online store for a handmade ceramics studio with product pages, cart, checkout and order tracking | React, TypeScript, Tailwind CSS | [03-tsuchi-ceramics](03-tsuchi-ceramics) |
 | 04 | Kura Ceramics Website | Online store for a minimalist stoneware brand with product pages, 360-degree viewer, cart, checkout and order tracking | React, TypeScript, Tailwind CSS | [04-kura-ceramics](04-kura-ceramics) |
 | 05 | Maison de Champagne Website | One-page website for a Champagne house with vintage collection, terroir and cellar story, tasting notes and allocation request | React, TypeScript, Tailwind CSS | [05-maison-de-champagne](05-maison-de-champagne) |
+| 06 | L'AURA - Contemporary Tasting Room and Atelier | Fine dining restaurant website concept with tasting menus, a private dining estimator, a patron portal and a concierge inquiry form | Google AI Studio, React, Tailwind CSS | [06-aura-contemporary-tasting-room-atelier.html](06-aura-contemporary-tasting-room-atelier.html) |
 
 ## Screenshots
 
@@ -72,3 +73,25 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 ![Tsuchi Ceramics website](03-tsuchi-ceramics/screenshot.png)
 ![GreenScape Landscaping Co. website](02-greenscape-landscaping-co/screenshot.png)
 ![Zariya Fashion House website](01-zariya-fashion-house/screenshot.png)
+
+### 06 Screenshots
+
+![06 L'AURA - Hero Landing](06-aura-contemporary-tasting-room-atelier-01-hero-landing.png)
+<img width="1600" height="1200" alt="06-aura-contemporary-tasting-room-atelier-01-hero-landing" src="https://github.com/user-attachments/assets/1293fc0d-35ee-4fe9-a719-fe2c3e8fcd14" />
+
+![06 L'AURA - Seasonal Philosophy](06-aura-contemporary-tasting-room-atelier-02-seasonal-philosophy.png)
+<img width="1600" height="1200" alt="06-aura-contemporary-tasting-room-atelier-02-seasonal-philosophy" src="https://github.com/user-attachments/assets/eb3e1e37-f418-4844-901e-200dd675e809" />
+
+![06 L'AURA - Tasting Menus](06-aura-contemporary-tasting-room-atelier-03-tasting-menus.png)
+<img width="1600" height="1200" alt="06-aura-contemporary-tasting-room-atelier-03-tasting-menus" src="https://github.com/user-attachments/assets/4e4df4bc-71a4-46c6-bccf-d5f010063149" />
+
+![06 L'AURA - Private Dining Estimator](06-aura-contemporary-tasting-room-atelier-04-private-dining-estimator.png)
+<img width="1600" height="1200" alt="06-aura-contemporary-tasting-room-atelier-04-private-dining-estimator" src="https://github.com/user-attachments/assets/fafc3e0e-253d-46d2-803e-7b5d891cf0ce" />
+
+![06 L'AURA - Guest Reviews](06-aura-contemporary-tasting-room-atelier-05-guest-reviews.png)
+<img width="1600" height="1200" alt="06-aura-contemporary-tasting-room-atelier-05-guest-reviews" src="https://github.com/user-attachments/assets/0a69dfc0-1821-4955-9d82-f526b90ede57" />
+
+![06 L'AURA - Reservations and Contact](06-aura-contemporary-tasting-room-atelier-06-reservations-and-contact.png)
+<img width="1600" height="1200" alt="06-aura-contemporary-tasting-room-atelier-06-reservations-and-contact" src="https://github.com/user-attachments/assets/8eb20f4a-eb26-45b5-bec9-15c90f3d1e74" />
+
+
