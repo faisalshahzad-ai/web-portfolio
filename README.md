@@ -14,6 +14,7 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 | 04 | Kura Ceramics Website | Online store for a minimalist stoneware brand with product pages, 360-degree viewer, cart, checkout and order tracking | React, TypeScript, Tailwind CSS | [04-kura-ceramics](04-kura-ceramics) |
 | 05 | Maison de Champagne Website | One-page website for a Champagne house with vintage collection, terroir and cellar story, tasting notes and allocation request | React, TypeScript, Tailwind CSS | [05-maison-de-champagne](05-maison-de-champagne) |
 | 06 | L'AURA - Contemporary Tasting Room and Atelier | Fine dining restaurant website concept with tasting menus, a private dining estimator, a patron portal and a concierge inquiry form | Google AI Studio, React, Tailwind CSS | [06-aura-contemporary-tasting-room-atelier.html](06-aura-contemporary-tasting-room-atelier.html) |
+| 07 | Aethelgard Systems - AI Automation and Enterprise Orchestration | AI automation agency website with 12 services, a project process, six example systems, engagement plans, an FAQ and a contact form | Google AI Studio, React, Tailwind CSS | [07-aethelgard-systems.html](07-aethelgard-systems.html) |
 
 ## Screenshots
 
@@ -94,4 +95,17 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 ![06 L'AURA - Reservations and Contact](06-aura-contemporary-tasting-room-atelier-06-reservations-and-contact.png)
 <img width="1600" height="1200" alt="06-aura-contemporary-tasting-room-atelier-06-reservations-and-contact" src="https://github.com/user-attachments/assets/8eb20f4a-eb26-45b5-bec9-15c90f3d1e74" />
 
+### 07 Screenshots
+
+![07 NAAM - Hero Landing](07-naam-slug-01-hero-landing.png)
+<img width="1600" height="1200" alt="07-part-1" src="https://github.com/user-attachments/assets/0e67d003-194b-4b4d-b0b2-fc6a94cf0454" />
+
+![07 NAAM - Features](07-naam-slug-02-features.png)
+<img width="1600" height="1200" alt="07-part-2" src="https://github.com/user-attachments/assets/99afc048-defd-4422-80de-c6be6b13ddd3" />
+
+![07 NAAM - Details](07-naam-slug-03-details.png)
+<img width="1600" height="1200" alt="07-part-3" src="https://github.com/user-attachments/assets/28915e42-9e51-4155-8b5c-2b2f6212ac9b" />
+
+![07 NAAM - Contact](07-naam-slug-04-contact.png)
+<img width="1600" height="1200" alt="07-part-4" src="https://github.com/user-attachments/assets/488c613f-be43-4aca-8091-801392e2a24a" />
 
