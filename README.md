@@ -15,6 +15,7 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 | 05 | Maison de Champagne Website | One-page website for a Champagne house with vintage collection, terroir and cellar story, tasting notes and allocation request | React, TypeScript, Tailwind CSS | [05-maison-de-champagne](05-maison-de-champagne) |
 | 06 | L'AURA - Contemporary Tasting Room and Atelier | Fine dining restaurant website concept with tasting menus, a private dining estimator, a patron portal and a concierge inquiry form | Google AI Studio, React, Tailwind CSS | [06-aura-contemporary-tasting-room-atelier.html](06-aura-contemporary-tasting-room-atelier.html) |
 | 07 | Aethelgard Systems - AI Automation and Enterprise Orchestration | AI automation agency website with 12 services, a project process, six example systems, engagement plans, an FAQ and a contact form | Google AI Studio, React, Tailwind CSS | [07-aethelgard-systems.html](07-aethelgard-systems.html) |
+| 08 | Atelier Vane - Luxury Handcrafted Leather Goods | Luxury e-commerce website with 15 pages, product catalog, cart and checkout, bespoke customizer, patina slider, reviews, journal, FAQ and a contact page | Google AI Studio, React, Tailwind CSS | [08-atelier-vane-luxury-handcrafted-leather-goods.html](08-atelier-vane-luxury-handcrafted-leather-goods.html) |
 
 ## Screenshots
 
@@ -108,4 +109,96 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 
 ![07 NAAM - Contact](07-naam-slug-04-contact.png)
 <img width="1600" height="1200" alt="07-part-4" src="https://github.com/user-attachments/assets/488c613f-be43-4aca-8091-801392e2a24a" />
+
+### 08 Screenshots
+
+![08 Atelier Vane - Hero Landing](08-atelier-vane-luxury-handcrafted-leather-goods-01-hero-landing.png)
+<img width="1913" height="958" alt="Screenshot 2026-10-29 003434" src="https://github.com/user-attachments/assets/f1a9efdc-1ffd-4a4f-8ec5-a87365f8a7c5" />
+
+![08 Atelier Vane - Heritage Stats](08-atelier-vane-luxury-handcrafted-leather-goods-02-heritage-stats.png)
+<img width="1916" height="395" alt="Screenshot 2026-10-29 003620" src="https://github.com/user-attachments/assets/b5f85068-f646-4071-92ad-4916d7bac7a7" />
+
+![08 Atelier Vane - Flagship Collection](08-atelier-vane-luxury-handcrafted-leather-goods-03-flagship-collection.png)
+<img width="1919" height="946" alt="Screenshot 2026-10-29 003712" src="https://github.com/user-attachments/assets/751a5bd8-ddaf-4aed-bf31-6f2738bd7ae7" />
+
+![08 Atelier Vane - Bespoke Configurator](08-atelier-vane-luxury-handcrafted-leather-goods-04-bespoke-configurator.png)
+<img width="1920" height="938" alt="Screenshot 2026-10-29 003732" src="https://github.com/user-attachments/assets/ba533a00-bfb9-4726-8b8d-131353d09b41" />
+
+![08 Atelier Vane - Patina Evolution Slider](08-atelier-vane-luxury-handcrafted-leather-goods-05-patina-evolution-slider.png)
+<img width="1920" height="948" alt="Screenshot 2026-10-29 003750" src="https://github.com/user-attachments/assets/0c3ba436-4b79-4cfe-9b6a-d60c72fc44b0" />
+
+![08 Atelier Vane - Bespoke Tiers Overview](08-atelier-vane-luxury-handcrafted-leather-goods-06-bespoke-tiers-overview.png)
+<img width="1918" height="952" alt="Screenshot 2026-10-29 003809" src="https://github.com/user-attachments/assets/017829d5-255d-4661-9336-6aa2afbd155a" />
+
+![08 Atelier Vane - Press Acclaim and Footer](08-atelier-vane-luxury-handcrafted-leather-goods-07-press-acclaim-and-footer.png)
+<img width="1920" height="954" alt="Screenshot 2026-10-29 003826" src="https://github.com/user-attachments/assets/146ccf9c-5165-41c0-9147-0ede2d1b4377" />
+
+![08 Atelier Vane - Collection Catalog](08-atelier-vane-luxury-handcrafted-leather-goods-08-collection-catalog.png)
+<img width="1920" height="846" alt="Screenshot 2026-10-29 003902" src="https://github.com/user-attachments/assets/d796cbd0-3725-49b5-95b7-be4a46078bdc" />
+
+![08 Atelier Vane - Collection Filters and Products](08-atelier-vane-luxury-handcrafted-leather-goods-09-collection-filters-and-products.png)
+<img width="1920" height="862" alt="Screenshot 2026-10-29 003924" src="https://github.com/user-attachments/assets/8e4b6884-b5d3-41d7-a73e-88b3879a9277" />
+
+![08 Atelier Vane - Footer](08-atelier-vane-luxury-handcrafted-leather-goods-10-footer.png)
+<img width="1920" height="382" alt="Screenshot 2026-10-29 004019" src="https://github.com/user-attachments/assets/dc74d05a-eb76-4c32-afe8-5dd154a16ae1" />
+
+![08 Atelier Vane - Philosophy Hero](08-atelier-vane-luxury-handcrafted-leather-goods-11-philosophy-hero.png)
+<img width="1914" height="705" alt="Screenshot 2026-10-29 004042" src="https://github.com/user-attachments/assets/be80e68e-76fd-4c48-b1c0-f666d7f0322e" />
+
+![08 Atelier Vane - Philosophy Heritage Story](08-atelier-vane-luxury-handcrafted-leather-goods-12-philosophy-heritage-story.png)
+<img width="1920" height="811" alt="Screenshot 2026-10-29 004104" src="https://github.com/user-attachments/assets/8940a4c7-b626-4312-ac89-f9f4fccd046c" />
+
+![08 Atelier Vane - Philosophy Craft Comparison](08-atelier-vane-luxury-handcrafted-leather-goods-13-philosophy-craft-comparison.png)
+<img width="1920" height="773" alt="Screenshot 2026-10-29 004124" src="https://github.com/user-attachments/assets/9e51de6f-fe60-4123-9ae4-b1f335043a10" />
+
+![08 Atelier Vane - Philosophy Sustainability and CTA](08-atelier-vane-luxury-handcrafted-leather-goods-14-philosophy-sustainability-and-cta.png)
+<img width="1915" height="945" alt="Screenshot 2026-10-29 004142" src="https://github.com/user-attachments/assets/37c221ce-41b1-4fa0-a3d8-585e31ed168e" />
+
+![08 Atelier Vane - Footer and Guarantees](08-atelier-vane-luxury-handcrafted-leather-goods-15-footer-guarantees.png)
+<img width="1906" height="605" alt="Screenshot 2026-10-29 004239" src="https://github.com/user-attachments/assets/43e64069-418e-448a-9beb-e31d47acdc26" />
+
+![08 Atelier Vane - Bespoke Tiers Hero](08-atelier-vane-luxury-handcrafted-leather-goods-16-bespoke-tiers-hero.png)
+<img width="1917" height="685" alt="Screenshot 2026-10-29 004311" src="https://github.com/user-attachments/assets/2ef44e2e-08c0-4556-b5cb-102344cc1b0d" />
+
+![08 Atelier Vane - Bespoke Tiers Pricing](08-atelier-vane-luxury-handcrafted-leather-goods-17-bespoke-tiers-pricing.png)
+<img width="1916" height="944" alt="Screenshot 2026-10-29 004331" src="https://github.com/user-attachments/assets/968de3dc-15d2-4499-a857-2ea16c5cf134" />
+
+![08 Atelier Vane - Bespoke Tiers FAQ](08-atelier-vane-luxury-handcrafted-leather-goods-18-bespoke-tiers-faq.png)
+<img width="1909" height="823" alt="Screenshot 2026-10-29 004353" src="https://github.com/user-attachments/assets/9e98c03d-1f57-4ae8-bc52-723b976db8b4" />
+
+![08 Atelier Vane - Patina Archive Hero](08-atelier-vane-luxury-handcrafted-leather-goods-19-patina-archive-hero.png)
+<img width="1914" height="604" alt="Screenshot 2026-10-29 004421" src="https://github.com/user-attachments/assets/a9fc2cf0-4f3a-403a-81e6-cb6c116291c1" />
+
+![08 Atelier Vane - Patina Archive Slider](08-atelier-vane-luxury-handcrafted-leather-goods-20-patina-archive-slider.png)
+<img width="1919" height="940" alt="Screenshot 2026-10-29 004442" src="https://github.com/user-attachments/assets/6991ec9f-3e10-41c2-b1d6-ffef0fa3f9cb" />
+
+![08 Atelier Vane - Archive Case Studies](08-atelier-vane-luxury-handcrafted-leather-goods-21-archive-case-studies.png)
+<img width="1920" height="943" alt="Screenshot 2026-10-29 004504" src="https://github.com/user-attachments/assets/d9049dfa-fa9d-4192-8f19-be6513301398" />
+
+![08 Atelier Vane - Journal Hero](08-atelier-vane-luxury-handcrafted-leather-goods-22-journal-hero.png)
+<img width="1917" height="674" alt="Screenshot 2026-10-29 004525" src="https://github.com/user-attachments/assets/066e7c05-0bb2-4023-834a-c9f4d185334c" />
+
+![08 Atelier Vane - Journal Featured Treatise](08-atelier-vane-luxury-handcrafted-leather-goods-23-journal-featured-treatise.png)
+<img width="1920" height="711" alt="Screenshot 2026-10-29 004542" src="https://github.com/user-attachments/assets/4e8faff6-ca8f-4307-8a0b-9dc625b59194" />
+
+![08 Atelier Vane - Journal Articles](08-atelier-vane-luxury-handcrafted-leather-goods-24-journal-articles.png)
+<img width="1920" height="828" alt="Screenshot 2026-10-29 004556" src="https://github.com/user-attachments/assets/b07d8dbf-b9a9-49ca-8450-b57cd93490a1" />
+
+![08 Atelier Vane - Journal Newsletter](08-atelier-vane-luxury-handcrafted-leather-goods-25-journal-newsletter.png)
+<img width="1920" height="761" alt="Screenshot 2026-10-29 004620" src="https://github.com/user-attachments/assets/b3804ad9-14e7-4738-873b-d11da387f380" />
+
+![08 Atelier Vane - Account Dashboard](08-atelier-vane-luxury-handcrafted-leather-goods-26-account-dashboard.png)
+<img width="1920" height="877" alt="Screenshot 2026-10-29 004655" src="https://github.com/user-attachments/assets/06483e91-654e-47e0-a842-bb462c487ba7" />
+
+![08 Atelier Vane - Shopping Cart](08-atelier-vane-luxury-handcrafted-leather-goods-27-shopping-cart.png)
+<img width="1903" height="950" alt="Screenshot 2026-10-29 004726" src="https://github.com/user-attachments/assets/dd01d829-42d5-4867-a925-56ebfb4889ed" />
+
+![08 Atelier Vane - Contact Hero](08-atelier-vane-luxury-handcrafted-leather-goods-28-contact-hero.png)
+<img width="1914" height="726" alt="Screenshot 2026-10-29 004750" src="https://github.com/user-attachments/assets/e070f6f1-bf75-4b6a-a051-a25fafc691b2" />
+
+![08 Atelier Vane - Salon Booking](08-atelier-vane-luxury-handcrafted-leather-goods-29-salon-booking.png)
+<img width="1918" height="945" alt="Screenshot 2026-10-29 004807" src="https://github.com/user-attachments/assets/ae576528-3cca-4124-936f-313a0695f9d8" />
+
+![08 Atelier Vane - Private Quarters](08-atelier-vane-luxury-handcrafted-leather-goods-30-private-quarters.png)
+<img width="1920" height="876" alt="Screenshot 2026-10-29 004825" src="https://github.com/user-attachments/assets/1bae3e41-2820-4131-b641-01ca69937a3a" />
 
