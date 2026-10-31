@@ -16,6 +16,7 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 | 06 | L'AURA - Contemporary Tasting Room and Atelier | Fine dining restaurant website concept with tasting menus, a private dining estimator, a patron portal and a concierge inquiry form | Google AI Studio, React, Tailwind CSS | [06-aura-contemporary-tasting-room-atelier.html](06-aura-contemporary-tasting-room-atelier.html) |
 | 07 | Aethelgard Systems - AI Automation and Enterprise Orchestration | AI automation agency website with 12 services, a project process, six example systems, engagement plans, an FAQ and a contact form | Google AI Studio, React, Tailwind CSS | [07-aethelgard-systems.html](07-aethelgard-systems.html) |
 | 08 | Atelier Vane - Luxury Handcrafted Leather Goods | Luxury e-commerce website with 15 pages, product catalog, cart and checkout, bespoke customizer, patina slider, reviews, journal, FAQ and a contact page | Google AI Studio, React, Tailwind CSS | [08-atelier-vane-luxury-handcrafted-leather-goods.html](08-atelier-vane-luxury-handcrafted-leather-goods.html) |
+| 09 | Aurelia Bloom Beauty - Cellular Longevity & Botanical Alchemy | Luxury skincare e-commerce website with 12 pages, product catalog, cart and checkout, multi-currency switcher, Shopify theme architect, account dashboard, order tracking, FAQ, press, sustainability and a contact page | Google AI Studio, React, Tailwind CSS | [09-aurelia-bloom-beauty-cellular-longevity-botanical-alchemy.html](09-aurelia-bloom-beauty-cellular-longevity-botanical-alchemy.html) |
 
 ## Screenshots
 
@@ -201,4 +202,57 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 
 ![08 Atelier Vane - Private Quarters](08-atelier-vane-luxury-handcrafted-leather-goods-30-private-quarters.png)
 <img width="1920" height="876" alt="Screenshot 2026-10-29 004825" src="https://github.com/user-attachments/assets/1bae3e41-2820-4131-b641-01ca69937a3a" />
+
+### 09 Screenshots
+
+![09 Aurelia Bloom Beauty - Hero Landing](09-aurelia-bloom-beauty-01-hero-landing.png)
+<img width="1920" height="914" alt="Screenshot 2026-10-30 042701" src="https://github.com/user-attachments/assets/2f898875-49b6-4f8d-8dbb-277751016f4b" />
+
+![09 Aurelia Bloom Beauty - Curated Collections](09-aurelia-bloom-beauty-02-curated-collections.png)
+<img width="1920" height="920" alt="Screenshot 2026-10-30 042737" src="https://github.com/user-attachments/assets/6007b5ce-87cb-43af-a37b-ce5fa4536348" />
+
+![09 Aurelia Bloom Beauty - Featured Product](09-aurelia-bloom-beauty-03-featured-product.png)
+<img width="1919" height="899" alt="Screenshot 2026-10-30 042757" src="https://github.com/user-attachments/assets/65bfcb23-aee6-4b95-b4bb-35dbd75586a2" />
+
+![09 Aurelia Bloom Beauty - Atelier Heritage](09-aurelia-bloom-beauty-04-atelier-heritage.png)
+<img width="1920" height="907" alt="Screenshot 2026-10-30 042823" src="https://github.com/user-attachments/assets/0c84787e-1559-488b-9769-62ecf51dd766" />
+
+![09 Aurelia Bloom Beauty - Verified Efficacy](09-aurelia-bloom-beauty-05-verified-efficacy.png)
+<img width="1920" height="910" alt="Screenshot 2026-10-30 042839" src="https://github.com/user-attachments/assets/4c273294-7331-4671-ab2f-d763a05ffcc7" />
+
+![09 Aurelia Bloom Beauty - Press and Reviews](09-aurelia-bloom-beauty-06-press-reviews.png)
+<img width="1920" height="900" alt="Screenshot 2026-10-30 042904" src="https://github.com/user-attachments/assets/9937e6fc-77d9-4f5a-ab09-bd6e961b72ea" />
+
+![09 Aurelia Bloom Beauty - Newsletter and Footer](09-aurelia-bloom-beauty-07-newsletter-footer.png)
+<img width="1920" height="907" alt="Screenshot 2026-10-30 042924" src="https://github.com/user-attachments/assets/99cbc083-e43a-434d-87d8-04c2a2c86a5c" />
+
+![09 Aurelia Bloom Beauty - Catalog Overview](09-aurelia-bloom-beauty-08-catalog-overview.png)
+<img width="1916" height="905" alt="Screenshot 2026-10-30 043008" src="https://github.com/user-attachments/assets/549fb481-7d70-4a01-a3a0-60c4b11bac57" />
+
+![09 Aurelia Bloom Beauty - Catalog Filters](09-aurelia-bloom-beauty-09-catalog-filters.png)
+<img width="1919" height="904" alt="Screenshot 2026-10-30 043024" src="https://github.com/user-attachments/assets/924c039c-24d8-4d9b-b338-7a5ead9683c3" />
+
+![09 Aurelia Bloom Beauty - Catalog Products 1](09-aurelia-bloom-beauty-10-catalog-products-1.png)
+<img width="1920" height="896" alt="Screenshot 2026-10-30 043040" src="https://github.com/user-attachments/assets/eb93e7a6-74b5-4b73-a656-eacee124f353" />
+
+![09 Aurelia Bloom Beauty - Catalog Products 2](09-aurelia-bloom-beauty-11-catalog-products-2.png)
+<img width="1916" height="908" alt="Screenshot 2026-10-30 043056" src="https://github.com/user-attachments/assets/72ba6e7b-062d-4ab1-9d37-cfd8b23f8a34" />
+
+![09 Aurelia Bloom Beauty - Catalog Products 3](09-aurelia-bloom-beauty-12-catalog-products-3.png)
+<img width="1919" height="953" alt="Screenshot 2026-10-30 043116" src="https://github.com/user-attachments/assets/ff7251fc-cbb5-4874-aae9-c3690956d3f7" />
+
+![09 Aurelia Bloom Beauty - Catalog Footer](09-aurelia-bloom-beauty-13-catalog-footer.png)
+<img width="1915" height="914" alt="Screenshot 2026-10-30 043132" src="https://github.com/user-attachments/assets/456ca731-67e3-4450-8525-f692cda1a5bb" />
+
+![09 Aurelia Bloom Beauty - Philosophy Hero](09-aurelia-bloom-beauty-14-philosophy-hero.png)
+<img width="1920" height="908" alt="Screenshot 2026-10-30 043153" src="https://github.com/user-attachments/assets/a400df01-d778-474b-83e3-fdaef82d813f" />
+
+![09 Aurelia Bloom Beauty - Philosophy Story](09-aurelia-bloom-beauty-15-philosophy-story.png)
+<img width="1920" height="902" alt="Screenshot 2026-10-30 043211" src="https://github.com/user-attachments/assets/d36d956d-7f76-4ab3-a651-b93ff327da83" />
+
+![09 Aurelia Bloom Beauty - Contact](09-aurelia-bloom-beauty-16-contact.png)
+<img width="1916" height="912" alt="Screenshot 2026-10-30 043240" src="https://github.com/user-attachments/assets/4e83928d-dfe2-435d-a752-0a2d3d02ca2e" />
+
+![09 Aurelia Bloom Beauty - Cart Drawer](09-aurelia-bloom-beauty-17-cart-drawer.png)
+<img width="1920" height="907" alt="Screenshot 2026-10-30 043258" src="https://github.com/user-attachments/assets/28d31c28-00c0-4435-a2f3-38845a9ccdb2" />
 
