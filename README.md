@@ -19,6 +19,8 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 | 09 | Aurelia Bloom Beauty - Cellular Longevity & Botanical Alchemy | Luxury skincare e-commerce website with 12 pages, product catalog, cart and checkout, multi-currency switcher, Shopify theme architect, account dashboard, order tracking, FAQ, press, sustainability and a contact page | Google AI Studio, React, Tailwind CSS | [09-aurelia-bloom-beauty-cellular-longevity-botanical-alchemy.html](09-aurelia-bloom-beauty-cellular-longevity-botanical-alchemy.html) |
 | 10 | Maison Vance - Parisian Architectural Couture & Runway Ready-to-Wear | Luxury fashion e-commerce website with 26 pages, Shop-the-Runway look viewer, numbered runway collections, product catalog, cart and checkout, wishlist, gift cards, client concierge, account dashboard, order tracking, journal, FAQ, policy pages and a store admin panel | Google AI Studio, React, Tailwind CSS | [10-maison-vance-parisian-architectural-couture-runway-ready-to-wear.html](10-maison-vance-parisian-architectural-couture-runway-ready-to-wear.html) |
 | 11 | Maison Velours - Sculpted Silk & Evening Drapery for the Modern Muse | Luxury silk evening wear e-commerce website with 26 pages, interactive fabric drape studio, shop catalog, signature collections, product detail, cart and checkout, flash deals, gift cards, client concierge, account dashboard, order tracking, wishlist, editorial journal, FAQ and a store admin panel | Google AI Studio, React, Tailwind CSS | [11-maison-velours-sculpted-silk-evening-drapery-for-the-modern-muse.html](11-maison-velours-sculpted-silk-evening-drapery-for-the-modern-muse.html) |
+| 12 | Sabae Titanium Optics - Hand-Polished Japanese Acetate & Beta-Titanium Eyewear | Luxury eyewear e-commerce website with a face shape and bridge fit matcher, shop catalog with filters, collections, seasonal lookbook, product detail pages, cart and checkout, flash deals, gift cards, order tracking, order history with tax invoices, wishlist, RMA portal, FAQ, client concierge, journal, account dashboard and an admin console | Google AI Studio, React, Tailwind CSS | [12-sabae-titanium-optics-hand-polished-japanese-acetate-beta-titanium-eyewear.html](12-sabae-titanium-optics-hand-polished-japanese-acetate-beta-titanium-eyewear.html) |
+
 
 ## Screenshots
 
@@ -377,7 +379,68 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 <img width="1920" height="910" alt="11-maison-velours-19-faq" src="https://github.com/user-attachments/assets/9f8642bb-9839-4d2d-b01f-407893372f0c" />
 
 ![11 Maison Velours - Client Concierge](11-maison-velours-20-client-concierge.png)
-<img width="1920" height="910" alt="11-maison-velours-20-client-concierge" src="https://github.com/user-attachments/assets/6abb29e2-e280-42a8-af01-5ee2bd672dc6" />
+
+### 12 Screenshots
+
+![12 Sabae Titanium Optics - Hero Landing](12-sabae-titanium-optics-01-hero-landing.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-01-hero-landing" src="https://github.com/user-attachments/assets/a64025a4-ac3c-439d-8aa8-a1baf8b876e0" />
+
+![12 Sabae Titanium Optics - Face Matcher Step 1](12-sabae-titanium-optics-02-face-matcher-step-1.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-02-face-matcher-step-1" src="https://github.com/user-attachments/assets/e4384ada-bcc1-441d-a31e-3336969bb262" />
+
+![12 Sabae Titanium Optics - Face Matcher Bridge Fit](12-sabae-titanium-optics-03-face-matcher-bridge-fit.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-03-face-matcher-bridge-fit" src="https://github.com/user-attachments/assets/8f90b957-7b96-4835-820c-b5c8fd6cfd88" />
+
+![12 Sabae Titanium Optics - Face Matcher Results](12-sabae-titanium-optics-04-face-matcher-results.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-04-face-matcher-results" src="https://github.com/user-attachments/assets/e7b82585-a597-40ff-8b33-c9c5491f9ac5" />
+
+![12 Sabae Titanium Optics - Fitting Architecture](12-sabae-titanium-optics-05-fitting-architecture.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-05-fitting-architecture" src="https://github.com/user-attachments/assets/a3b65ad3-0c0f-4c44-a821-ee146776e26b" />
+
+![12 Sabae Titanium Optics - Hero SKUs and Craft](12-sabae-titanium-optics-06-hero-skus-and-craft.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-06-hero-skus-and-craft" src="https://github.com/user-attachments/assets/c558de72-4c0c-4f49-ad13-8776e6d24908" />
+
+![12 Sabae Titanium Optics - New Season Frames](12-sabae-titanium-optics-07-new-season-frames.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-07-new-season-frames" src="https://github.com/user-attachments/assets/8f0f20be-5052-42ff-9f9b-857ae2f984b7" />
+
+![12 Sabae Titanium Optics - Client Reviews](12-sabae-titanium-optics-08-client-reviews.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-08-client-reviews" src="https://github.com/user-attachments/assets/0dc0ac7e-798d-4de7-b398-fc3967f7eab3" />
+
+![12 Sabae Titanium Optics - Footer and Site Index](12-sabae-titanium-optics-09-footer-site-index.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-09-footer-site-index" src="https://github.com/user-attachments/assets/1c10230b-efe9-45dd-b636-4dd61f8c7659" />
+
+![12 Sabae Titanium Optics - Shop All Frames](12-sabae-titanium-optics-10-shop-all-frames.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-10-shop-all-frames" src="https://github.com/user-attachments/assets/5dfe0375-0eed-4b5c-870f-2990a1eb9134" />
+
+![12 Sabae Titanium Optics - Frame Grid](12-sabae-titanium-optics-11-frame-grid.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-11-frame-grid" src="https://github.com/user-attachments/assets/cc215cd6-24e8-4a9f-ae07-c85770887608" />
+
+![12 Sabae Titanium Optics - Collections and Departments](12-sabae-titanium-optics-12-collections-departments.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-12-collections-departments" src="https://github.com/user-attachments/assets/d74b56b1-c167-45dd-ae74-1d71077333ba" />
+
+![12 Sabae Titanium Optics - Seasonal Lookbook](12-sabae-titanium-optics-13-seasonal-lookbook.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-13-seasonal-lookbook" src="https://github.com/user-attachments/assets/7803d80e-fd03-4144-a748-747c6af2580e" />
+
+![12 Sabae Titanium Optics - Product Detail](12-sabae-titanium-optics-14-product-detail.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-14-product-detail" src="https://github.com/user-attachments/assets/9253c13e-735a-4180-85b2-6884eb29d7ea" />
+
+![12 Sabae Titanium Optics - Product Details and Bundles](12-sabae-titanium-optics-15-product-details-and-bundles.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-15-product-details-and-bundles" src="https://github.com/user-attachments/assets/f0e65acb-677e-4b07-b08f-90705a8dddcb" />
+
+![12 Sabae Titanium Optics - Cart Drawer](12-sabae-titanium-optics-16-cart-drawer.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-16-cart-drawer" src="https://github.com/user-attachments/assets/f3ff892d-98f1-483a-95ab-6ee7da4418df" />
+
+![12 Sabae Titanium Optics - Flash Deals](12-sabae-titanium-optics-17-flash-deals.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-17-flash-deals" src="https://github.com/user-attachments/assets/ad058984-131c-4f85-a4df-d1d2e3baf5b7" />
+
+![12 Sabae Titanium Optics - Gift Cards](12-sabae-titanium-optics-18-gift-cards.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-18-gift-cards" src="https://github.com/user-attachments/assets/2ca47635-08ad-410b-88d3-7a5e819e235b" />
+
+![12 Sabae Titanium Optics - Shopping Bag](12-sabae-titanium-optics-19-shopping-bag.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-19-shopping-bag" src="https://github.com/user-attachments/assets/f68bc4b2-bd37-409b-9bc5-b54ad6442d90" />
+
+![12 Sabae Titanium Optics - Secure Checkout](12-sabae-titanium-optics-20-secure-checkout.png)
+<img width="1920" height="910" alt="12-sabae-titanium-optics-20-secure-checkout" src="https://github.com/user-attachments/assets/b35d6ef5-5158-44a2-8ff6-49e3de388763" />
 
 
 
