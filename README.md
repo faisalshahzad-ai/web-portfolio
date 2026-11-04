@@ -18,7 +18,7 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 | 08 | Atelier Vane - Luxury Handcrafted Leather Goods | Luxury e-commerce website with 15 pages, product catalog, cart and checkout, bespoke customizer, patina slider, reviews, journal, FAQ and a contact page | Google AI Studio, React, Tailwind CSS | [08-atelier-vane-luxury-handcrafted-leather-goods.html](08-atelier-vane-luxury-handcrafted-leather-goods.html) |
 | 09 | Aurelia Bloom Beauty - Cellular Longevity & Botanical Alchemy | Luxury skincare e-commerce website with 12 pages, product catalog, cart and checkout, multi-currency switcher, Shopify theme architect, account dashboard, order tracking, FAQ, press, sustainability and a contact page | Google AI Studio, React, Tailwind CSS | [09-aurelia-bloom-beauty-cellular-longevity-botanical-alchemy.html](09-aurelia-bloom-beauty-cellular-longevity-botanical-alchemy.html) |
 | 10 | Maison Vance - Parisian Architectural Couture & Runway Ready-to-Wear | Luxury fashion e-commerce website with 26 pages, Shop-the-Runway look viewer, numbered runway collections, product catalog, cart and checkout, wishlist, gift cards, client concierge, account dashboard, order tracking, journal, FAQ, policy pages and a store admin panel | Google AI Studio, React, Tailwind CSS | [10-maison-vance-parisian-architectural-couture-runway-ready-to-wear.html](10-maison-vance-parisian-architectural-couture-runway-ready-to-wear.html) |
-
+| 11 | Maison Velours - Sculpted Silk & Evening Drapery for the Modern Muse | Luxury silk evening wear e-commerce website with 26 pages, interactive fabric drape studio, shop catalog, signature collections, product detail, cart and checkout, flash deals, gift cards, client concierge, account dashboard, order tracking, wishlist, editorial journal, FAQ and a store admin panel | Google AI Studio, React, Tailwind CSS | [11-maison-velours-sculpted-silk-evening-drapery-for-the-modern-muse.html](11-maison-velours-sculpted-silk-evening-drapery-for-the-modern-muse.html) |
 
 ## Screenshots
 
@@ -317,6 +317,67 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 ![10 Maison Vance - Private Checkout](10-maison-vance-19-private-checkout.png)
 <img width="1920" height="910" alt="10-maison-vance-19-private-checkout" src="https://github.com/user-attachments/assets/23ddab0d-6074-4121-a273-5a382b337ec8" />
 
-![10 Maison Vance - Account Dashboard](10-maison-vance-20-account-dashboard.png)
-<img width="1920" height="910" alt="10-maison-vance-20-account-dashboard" src="https://github.com/user-attachments/assets/8f6ebd44-b476-472a-be04-ad44c4a5fe24" />
+### 11 Screenshots
+
+![11 Maison Velours - Hero Landing](11-maison-velours-01-hero-landing.png)
+<img width="1920" height="910" alt="11-maison-velours-01-hero-landing" src="https://github.com/user-attachments/assets/bb92de87-0f46-4d18-b9bc-24153384ba82" />
+
+![11 Maison Velours - Signature Icons](11-maison-velours-02-signature-icons.png)
+<img width="1920" height="910" alt="11-maison-velours-02-signature-icons" src="https://github.com/user-attachments/assets/195a64bf-1e2d-4b56-9f19-1422889f6d05" />
+
+![11 Maison Velours - Product Rows](11-maison-velours-03-product-rows.png)
+<img width="1920" height="910" alt="11-maison-velours-03-product-rows" src="https://github.com/user-attachments/assets/227d236d-c87c-469a-82b1-c0a16b2b0ce6" />
+
+![11 Maison Velours - Drape and Movement Studio](11-maison-velours-04-drape-movement-studio.png)
+<img width="1920" height="910" alt="11-maison-velours-04-drape-movement-studio" src="https://github.com/user-attachments/assets/c415e81d-519b-407a-a5da-d1e7d89b84ae" />
+
+![11 Maison Velours - Drape Configurator](11-maison-velours-05-drape-configurator.png)
+<img width="1920" height="910" alt="11-maison-velours-05-drape-configurator" src="https://github.com/user-attachments/assets/5c03afdd-dd15-468d-bfda-4fe164744ca6" />
+
+![11 Maison Velours - Evening Salons](11-maison-velours-06-evening-salons.png)
+<img width="1920" height="910" alt="11-maison-velours-06-evening-salons" src="https://github.com/user-attachments/assets/a6b2b37f-3ebc-4eb7-8ce5-a120cc79f627" />
+
+![11 Maison Velours - Footer and Site Index](11-maison-velours-07-footer-site-index.png)
+<img width="1920" height="910" alt="11-maison-velours-07-footer-site-index" src="https://github.com/user-attachments/assets/c7dfa162-2b38-427c-a1db-860de2becbf2" />
+
+![11 Maison Velours - Shop Catalog](11-maison-velours-08-shop-catalog.png)
+<img width="1920" height="910" alt="11-maison-velours-08-shop-catalog" src="https://github.com/user-attachments/assets/9d2535cd-58bd-408e-8804-e7e2c4515f99" />
+
+![11 Maison Velours - Category Showcases](11-maison-velours-09-category-showcases.png)
+<img width="1920" height="910" alt="11-maison-velours-09-category-showcases" src="https://github.com/user-attachments/assets/d26cb7db-7e53-4563-8a66-23255eb92411" />
+
+![11 Maison Velours - Signature Collections](11-maison-velours-10-signature-collections.png)
+<img width="1920" height="910" alt="11-maison-velours-10-signature-collections" src="https://github.com/user-attachments/assets/2982cbdf-8417-46c7-8405-021cc83da9c2" />
+
+![11 Maison Velours - Product Detail](11-maison-velours-11-product-detail.png)
+<img width="1920" height="910" alt="11-maison-velours-11-product-detail" src="https://github.com/user-attachments/assets/e468fa9a-737d-4845-bdc2-3e13cf11d985" />
+
+![11 Maison Velours - Product Details and Pairing](11-maison-velours-12-product-details-and-pairing.png)
+<img width="1920" height="910" alt="11-maison-velours-12-product-details-and-pairing" src="https://github.com/user-attachments/assets/6e742581-ef2c-4e52-9974-7eda0a273445" />
+
+![11 Maison Velours - Cart Drawer](11-maison-velours-13-cart-drawer.png)
+<img width="1920" height="910" alt="11-maison-velours-13-cart-drawer" src="https://github.com/user-attachments/assets/26ff436d-b4a9-4f77-ab3e-d3675e398177" />
+
+![11 Maison Velours - Flash Deals](11-maison-velours-14-flash-deals.png)
+<img width="1920" height="910" alt="11-maison-velours-14-flash-deals" src="https://github.com/user-attachments/assets/092dc799-1b57-4672-a0a1-fca3db910da5" />
+
+![11 Maison Velours - Gift Cards](11-maison-velours-15-gift-cards.png)
+<img width="1920" height="910" alt="11-maison-velours-15-gift-cards" src="https://github.com/user-attachments/assets/3ea228f3-b26b-4444-8435-0f34a2672346" />
+
+![11 Maison Velours - About and Lyon Story](11-maison-velours-16-about-lyon-story.png)
+<img width="1920" height="910" alt="11-maison-velours-16-about-lyon-story" src="https://github.com/user-attachments/assets/1f7bbbee-af9e-4149-a584-e0ade4092da9" />
+
+![11 Maison Velours - About and Craft Standards](11-maison-velours-17-about-craft-standards.png)
+<img width="1920" height="910" alt="11-maison-velours-17-about-craft-standards" src="https://github.com/user-attachments/assets/61e8d8e9-24f8-499f-9acd-ce68a395419d" />
+
+![11 Maison Velours - Editorial Journal](11-maison-velours-18-journal.png)
+<img width="1920" height="910" alt="11-maison-velours-18-journal" src="https://github.com/user-attachments/assets/c3f265a9-1572-42ca-a6be-d184863a0dfd" />
+
+![11 Maison Velours - FAQ](11-maison-velours-19-faq.png)
+<img width="1920" height="910" alt="11-maison-velours-19-faq" src="https://github.com/user-attachments/assets/9f8642bb-9839-4d2d-b01f-407893372f0c" />
+
+![11 Maison Velours - Client Concierge](11-maison-velours-20-client-concierge.png)
+<img width="1920" height="910" alt="11-maison-velours-20-client-concierge" src="https://github.com/user-attachments/assets/6abb29e2-e280-42a8-af01-5ee2bd672dc6" />
+
+
 
