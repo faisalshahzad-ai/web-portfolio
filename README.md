@@ -20,7 +20,7 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 | 10 | Maison Vance - Parisian Architectural Couture & Runway Ready-to-Wear | Luxury fashion e-commerce website with 26 pages, Shop-the-Runway look viewer, numbered runway collections, product catalog, cart and checkout, wishlist, gift cards, client concierge, account dashboard, order tracking, journal, FAQ, policy pages and a store admin panel | Google AI Studio, React, Tailwind CSS | [10-maison-vance-parisian-architectural-couture-runway-ready-to-wear.html](10-maison-vance-parisian-architectural-couture-runway-ready-to-wear.html) |
 | 11 | Maison Velours - Sculpted Silk & Evening Drapery for the Modern Muse | Luxury silk evening wear e-commerce website with 26 pages, interactive fabric drape studio, shop catalog, signature collections, product detail, cart and checkout, flash deals, gift cards, client concierge, account dashboard, order tracking, wishlist, editorial journal, FAQ and a store admin panel | Google AI Studio, React, Tailwind CSS | [11-maison-velours-sculpted-silk-evening-drapery-for-the-modern-muse.html](11-maison-velours-sculpted-silk-evening-drapery-for-the-modern-muse.html) |
 | 12 | Sabae Titanium Optics - Hand-Polished Japanese Acetate & Beta-Titanium Eyewear | Luxury eyewear e-commerce website with a face shape and bridge fit matcher, shop catalog with filters, collections, seasonal lookbook, product detail pages, cart and checkout, flash deals, gift cards, order tracking, order history with tax invoices, wishlist, RMA portal, FAQ, client concierge, journal, account dashboard and an admin console | Google AI Studio, React, Tailwind CSS | [12-sabae-titanium-optics-hand-polished-japanese-acetate-beta-titanium-eyewear.html](12-sabae-titanium-optics-hand-polished-japanese-acetate-beta-titanium-eyewear.html) |
-
+| 13 | Arshad Kamal Global - Heavy-Duty Trailer Manufacturing & Heavy Transport Engineering | Heavy-duty trailer manufacturer website with a trailer catalog and product detail view, 22-wheel showroom, custom trailer configurator, repair and maintenance services, engineering process, showroom gallery, case studies, multi-currency pricing and banking, demo checkout, quote request, contact page and an admin dashboard | Google AI Studio, React, Tailwind CSS | [13-arshad-kamal-global-luxury-trailer-manufacturing.html](13-arshad-kamal-global-luxury-trailer-manufacturing.html) |
 
 ## Screenshots
 
@@ -441,6 +441,68 @@ Sample website projects by **Faisal Shahzad Naeem**. Each project has its own fo
 
 ![12 Sabae Titanium Optics - Secure Checkout](12-sabae-titanium-optics-20-secure-checkout.png)
 <img width="1920" height="910" alt="12-sabae-titanium-optics-20-secure-checkout" src="https://github.com/user-attachments/assets/b35d6ef5-5158-44a2-8ff6-49e3de388763" />
+
+### 13 Screenshots
+
+![13 Arshad Kamal Global - Hero Landing](13-arshad-kamal-global-01-hero-landing.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-01" src="https://github.com/user-attachments/assets/ed5ec739-a6ba-4718-9334-542343ba225e" />
+
+![13 Arshad Kamal Global - Company Introduction and Services](13-arshad-kamal-global-02-company-introduction-and-services.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-02" src="https://github.com/user-attachments/assets/96580f58-66e6-47f0-a008-f6ed181537d1" />
+
+![13 Arshad Kamal Global - Featured Trailers](13-arshad-kamal-global-03-featured-trailers.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-03" src="https://github.com/user-attachments/assets/f3bf4e51-5b3e-46e9-a5ba-4c086da68d11" />
+
+![13 Arshad Kamal Global - 22-Wheel Series and Quote Call](13-arshad-kamal-global-04-22-wheel-series-and-quote-call.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-04" src="https://github.com/user-attachments/assets/1e9efec2-3850-4536-a97a-0dc9943543f6" />
+
+![13 Arshad Kamal Global - About Us and Founder](13-arshad-kamal-global-05-about-us-and-founder.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-05" src="https://github.com/user-attachments/assets/50fb0b22-b5b2-4288-80b8-80bbd2bb55ce" />
+
+![13 Arshad Kamal Global - Engineering Philosophy and Inspection](13-arshad-kamal-global-06-engineering-philosophy-and-inspection.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-06" src="https://github.com/user-attachments/assets/ec45f548-2d71-4578-8c12-2c9c8f1d3c02" />
+
+![13 Arshad Kamal Global - Quality Gates](13-arshad-kamal-global-07-quality-gates.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-07" src="https://github.com/user-attachments/assets/b8f768ac-03f4-476a-b33c-33b9a24fd469" />
+
+![13 Arshad Kamal Global - Trailer Collection](13-arshad-kamal-global-08-trailer-collection.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-08" src="https://github.com/user-attachments/assets/3f9aac53-882a-4eb3-ba79-03070e1e07b1" />
+
+![13 Arshad Kamal Global - Trailer Catalog](13-arshad-kamal-global-09-trailer-catalog.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-09" src="https://github.com/user-attachments/assets/0f3989ac-1282-4dfc-9f05-9b754eccc8be" />
+
+![13 Arshad Kamal Global - Special-Purpose Transporter](13-arshad-kamal-global-10-special-purpose-transporter.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-10" src="https://github.com/user-attachments/assets/4fa5f9e4-0fcc-40b6-8c41-71f1ebb10e21" />
+
+![13 Arshad Kamal Global - 22-Wheel Heavy Haulage Collection](13-arshad-kamal-global-11-22-wheel-heavy-haulage-collection.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-11" src="https://github.com/user-attachments/assets/edf6b6a6-d7ba-4f68-ace3-01996eafc60a" />
+
+![13 Arshad Kamal Global - All 22-Wheel Models](13-arshad-kamal-global-12-22-wheel-all-models.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-12" src="https://github.com/user-attachments/assets/35386dbd-8c8d-4773-9c03-99552132ab00" />
+
+![13 Arshad Kamal Global - Custom Build Configurator](13-arshad-kamal-global-13-custom-build-configurator.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-13" src="https://github.com/user-attachments/assets/5722f301-ffb3-42a9-b1d9-977163880cc1" />
+
+![13 Arshad Kamal Global - Custom Build Hardware and Shipping](13-arshad-kamal-global-14-custom-build-hardware-and-shipping.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-14" src="https://github.com/user-attachments/assets/09dac6f8-1ec2-47ba-966c-8d9634627ffa" />
+
+![13 Arshad Kamal Global - Repair and Maintenance](13-arshad-kamal-global-15-repair-and-maintenance.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-15" src="https://github.com/user-attachments/assets/90b4d4a6-46cb-435c-a638-9d61ac5240fc" />
+
+![13 Arshad Kamal Global - Repair Services](13-arshad-kamal-global-16-repair-services.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-16" src="https://github.com/user-attachments/assets/81149122-6fb0-4fa9-a4bd-3375a134c9ee" />
+
+![13 Arshad Kamal Global - Repair Assessment Request](13-arshad-kamal-global-17-repair-assessment-request.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-17" src="https://github.com/user-attachments/assets/5e68339e-3a50-4bf6-96b0-9cb14f7ca211" />
+
+![13 Arshad Kamal Global - Engineering Process](13-arshad-kamal-global-18-engineering-process.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-18" src="https://github.com/user-attachments/assets/602ae461-e375-483a-9096-802d7d4b56a0" />
+
+![13 Arshad Kamal Global - Manufacturing Stages](13-arshad-kamal-global-19-manufacturing-stages.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-19" src="https://github.com/user-attachments/assets/9c63ca4b-3a00-4dfa-9aee-e0055c0a1dd7" />
+
+![13 Arshad Kamal Global - Showroom Gallery](13-arshad-kamal-global-20-showroom-gallery.png)
+<img width="1600" height="1200" alt="13-arshad-kamal-global-20" src="https://github.com/user-attachments/assets/393acd5f-e11d-4cd6-822a-4afe16e0f499" />
 
 
 
